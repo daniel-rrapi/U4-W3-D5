@@ -5,24 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d21e5730-dad9-463f-ae4d-4e321b5f2669" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/epicode/be/danielrrapi/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/epicode/be/danielrrapi/abstracts/OperaEditoriale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/epicode/be/danielrrapi/dao/OperaEditorialeDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/epicode/be/danielrrapi/dao/PrestitoDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/epicode/be/danielrrapi/dao/UtenteDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/epicode/be/danielrrapi/entities/Libro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/epicode/be/danielrrapi/entities/Prestito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/epicode/be/danielrrapi/entities/Rivista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/epicode/be/danielrrapi/entities/Utente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/epicode/be/danielrrapi/enums/LibroGenereTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/epicode/be/danielrrapi/enums/RivistaPeriodicitaTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/it/epicode/be/danielrrapi/ApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/epicode/be/danielrrapi/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/epicode/be/danielrrapi/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/epicode/be/danielrrapi/dao/OperaEditorialeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/epicode/be/danielrrapi/dao/OperaEditorialeDAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,13 +49,14 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/da-admin/Documents/Epicode/U4/W3/D5/U4-W3-D5",
-    "project.structure.last.edited": "Problems",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\uzo12\OneDrive\Documents\GitHub\U4-W3-D5\src\main\resources" />
       <recent name="C:\Users\da-admin\Documents\Epicode\U4\W3\D5\U4-W3-D5\src\main" />
     </key>
   </component>
@@ -78,6 +65,7 @@
       <option name="ALTERNATIVE_JRE_PATH" value="17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="it.epicode.be.danielrrapi.Application" />
+      <module name="U4-W3-D5" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="it.epicode.be.danielrrapi.*" />

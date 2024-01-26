@@ -81,13 +81,13 @@ public class Application {
         };
 
 
-        for (int i = 0; i < 16; i++) {
-            ud.save(utenteSupplier.get());
-            od.save(libroSupplier.get());
-            od.save(rivistaSupplier.get());
-
-        }
-
+//        for (int i = 0; i < 16; i++) {
+//            ud.save(utenteSupplier.get());
+//            od.save(libroSupplier.get());
+//            od.save(rivistaSupplier.get());
+//
+//        }
+        System.out.prinln(od.findById(2));
 
 
 
